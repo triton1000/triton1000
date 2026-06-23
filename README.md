@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Amal 👋
 
-<!--
-**triton1000/triton1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Business Analyst** · BCA Final Year · Bengaluru
 
-Here are some ideas to get you started:
+I work at the intersection of data and business decisions — translating raw data into insights that drive action. Building a portfolio across SQL, Python, Excel, and Power BI targeting my first BA/Data Analyst role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+**Data Analysis:** SQL (window functions, CTEs), Python (Pandas, Matplotlib, Seaborn), Excel (Pivot Tables, VLOOKUP, IFS)  
+**Visualisation:** Power BI (DAX, star schema, RLS, drill-through)  
+**BA Fundamentals:** BRD, User Stories, BPMN, UAT, Stakeholder mapping, Agile/Scrum  
+**Tools:** MySQL Workbench, Jupyter Notebook, Power BI Desktop, draw.io, Git
+
+---
+
+## 📂 Portfolio Projects
+
+| # | Project | Tools | Link |
+|---|---------|-------|------|
+| 1 | Ecommerce Sales SQL Analysis | SQL, MySQL | [View →](https://github.com/triton1000/ecommerce-sql-analysis) |
+| 2 | Bank Customer Churn EDA | Python, Pandas, Seaborn | [View →](https://github.com/triton1000/bank-customer-churn-eda) |
+| 3 | HR Attrition Excel Dashboard | Excel, Pivot Tables | [View →](https://github.com/triton1000/hr-attrition-dashboard) |
+| 4 | FreshBite Power BI Dashboard | Power BI, DAX | [View →](https://github.com/triton1000/freshbite-powerbi-dashboard) |
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](linkedin.com/in/amal-sony/) · [Email](amalsony2005@gmail.com)
