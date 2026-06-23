@@ -19,7 +19,7 @@ I work at the intersection of data and business decisions — translating raw da
 
 | # | Project | Tools | Link |
 |---|---------|-------|------|
-| 1 | Ecommerce Sales SQL Analysis | SQL, MySQL | [View →](https://github.com/triton1000/ecommerce-sql-analysis) |
+| 1 | Startup Funding Analysis | SQL, MySQL | [View →](https://github.com/triton1000/sql-startup-funding-analysis) |
 | 2 | Bank Customer Churn EDA | Python, Pandas, Seaborn | [View →](https://github.com/triton1000/bank-customer-churn-eda) |
 | 3 | HR Attrition Excel Dashboard | Excel, Pivot Tables | [View →](https://github.com/triton1000/hr-attrition-dashboard) |
 | 4 | FreshBite Power BI Dashboard | Power BI, DAX | [View →](https://github.com/triton1000/freshbite-powerbi-dashboard) |
