@@ -28,4 +28,4 @@ I work at the intersection of data and business decisions — translating raw da
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/amal-sony/) · [Email](mailto:amalsony2005@gmail.com)
+[LinkedIn](https://linkedin.com/in/amal-sony-495a793b2/) · [Email](mailto:amalsony2005@gmail.com)
