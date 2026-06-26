@@ -23,7 +23,7 @@ I work at the intersection of data and business decisions — translating raw da
 | 2 | Bank Customer Churn EDA | Python, Pandas, Seaborn | [View →](https://github.com/triton1000/bank-customer-churn-eda) |
 | 3 | HR Attrition Excel Dashboard | Excel, Pivot Tables | [View →](https://github.com/triton1000/hr-attrition-dashboard) |
 | 4 | FreshBite Power BI Dashboard | Power BI, DAX | [View →](https://github.com/triton1000/freshbite-powerbi-dashboard) |
-
+| 5 | Czech Bank Loan Analysis | MySQL, SQL | [View →](https://github.com/triton1000/czech-bank-loan-analysis) |
 ---
 
 ## 📫 Let's Connect
