@@ -8,7 +8,7 @@ I work at the intersection of data and business decisions — translating raw da
 
 ## 🛠 Skills
 
-**Data Analysis:** SQL (window functions, CTEs), Python (Pandas, Matplotlib, Seaborn), Excel (Pivot Tables, VLOOKUP, IFS)  
+**Data Analysis:** SQL (window functions, CTEs, multi-table JOINs), Python (Pandas, Matplotlib, Seaborn), Excel (Pivot Tables, VLOOKUP, IFS)
 **Visualisation:** Power BI (DAX, star schema, RLS, drill-through)  
 **BA Fundamentals:** BRD, User Stories, BPMN, UAT, Stakeholder mapping, Agile/Scrum  
 **Tools:** MySQL Workbench, Jupyter Notebook, Power BI Desktop, draw.io, Git
